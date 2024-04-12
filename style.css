@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.beden{
+    background: radial-gradient(blue,green,red,purple,cyan);
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.tokatDiv{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+video{
+    width: 100%;
+    height: auto;
+    max-width: 900px;
+}
+.buton{
+    font-size: 100px !important;
+    
+}
